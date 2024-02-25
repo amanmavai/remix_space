@@ -10,4 +10,8 @@ npx tailwindcss init -p
 npm install -D prettier
 npm install -D prettier-plugin-tailwindcss
 
+# shadcn
+npx shadcn-ui@latest init
+npm i -D @types/node
+
 ```

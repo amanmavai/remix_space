@@ -6,11 +6,13 @@
 @import "./reset.css";
 /* END_CUSTOM_BASE */
 
+/* SHADCN_CSS */
+@import "./shadcn.css";
+/* END_SHADCN_CSS */
 
 /* START__COMPONENTS */
 @import "tailwindcss/components";
 /* END__COMPONENTS */
-
 
 /* START__UTILITIES */
 @import "tailwindcss/utilities";
