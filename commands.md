@@ -14,5 +14,11 @@ npm install -D prettier-plugin-tailwindcss
 npx shadcn-ui@latest init
 npm i -D @types/node
 npx shadcn-ui@latest add button
+npx shadcn-ui@latest add popover
+npx shadcn-ui@latest add command
+npx shadcn-ui@latest add select
+npx shadcn-ui@latest add switch
+npx shadcn-ui@latest add label
+npx shadcn-ui@latest add input
 
 ```
